@@ -1,1 +1,1 @@
-# ML_Project
+# Handwritten Character Recognition
